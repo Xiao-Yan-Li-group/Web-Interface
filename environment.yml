@@ -1,4 +1,4 @@
-name: gtsr
+name: gtsr-env
 channels:
   - conda-forge
 dependencies:
